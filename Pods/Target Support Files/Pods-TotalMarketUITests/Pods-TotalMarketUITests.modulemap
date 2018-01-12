@@ -1,0 +1,6 @@
+framework module Pods_TotalMarketUITests {
+  umbrella header "Pods-TotalMarketUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
